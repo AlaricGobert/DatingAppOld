@@ -23,7 +23,11 @@
     "alertifyjs": "^1.11.2",
     "core-js": "^2.5.4",
     "rxjs": "6.0.0",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.8.26",
+    "@syncfusion/ej2-grids": "17.1.38",
+    "@syncfusion/ej2-charts": "17.1.38",
+    "@syncfusion/ej2-notifications": "17.1.38"
+ 
   },
   "devDependencies": {
     "@angular/compiler-cli": "^6.0.3",
